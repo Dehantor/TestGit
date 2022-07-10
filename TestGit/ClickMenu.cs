@@ -9,12 +9,12 @@ namespace TestGit
     internal class ClickMenu
     {
         public string Id { get; set; }
-        int a = 12;
+        double a = 12;
 
-        int s = 12;
+        double s = 12;
         public void click()
         {
-            int sasa = a - s/2;
+            double sasa = a - s/2;
         }
     }
 }
