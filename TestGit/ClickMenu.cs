@@ -8,5 +8,12 @@ namespace TestGit
 {
     internal class ClickMenu
     {
+        int a = 12;
+
+        int s = 12;
+        public void click()
+        {
+            int sasa = a + s;
+        }
     }
 }
