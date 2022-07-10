@@ -13,7 +13,7 @@ namespace TestGit
         int s = 12;
         public void click()
         {
-            int sasa = a + s;
+            int sasa = a - s/2;
         }
     }
 }
