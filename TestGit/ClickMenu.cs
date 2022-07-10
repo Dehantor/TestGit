@@ -15,5 +15,9 @@ namespace TestGit
         {
             int sasa = a - s/2;
         }
+        public void clicssk()
+        {
+            int sasa = a - s / 2;
+        }
     }
 }
