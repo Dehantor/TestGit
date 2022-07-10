@@ -8,5 +8,6 @@ namespace TestGit
 {
     internal class ClickMenu
     {
+        public string Id { get; set; }
     }
 }
