@@ -18,7 +18,7 @@ namespace TestGit
         }
         public void clicssk()
         {
-            int sasa = a - s / 2;
+            double sasa = a - s / 2;
         }
     }
 }
